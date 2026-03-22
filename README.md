@@ -1,5 +1,3 @@
-RagaAI Assignment
-
 A modular AI-powered system for data ingestion, analysis and voice interaction.
 
 ## Project Structure
