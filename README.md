@@ -3,7 +3,7 @@ A modular AI-powered system for data ingestion, analysis and voice interaction.
 ## Project Structure
 
 ```
-ragaai_assignment/
+Agent-Orchestrator/
 ├── data_ingestion/     # Data collection and processing
 ├── agents/            # AI agents for different tasks
 ├── orchestrator/      # Service orchestration
